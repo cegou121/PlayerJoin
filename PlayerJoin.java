@@ -37,6 +37,12 @@ public class PlayerJoin extends JavaPlugin implements Listener {
             bossBar.addPlayer(player);
         }
     }
+    @Ovveride
+    public void OnlineJoin
+    if (Player player) = bukkit.getplayer() {
+        String . getjoin() {
+            Player player = Player ()
+                bossbar.addPlayer(bukkit.GetLoger);
 
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent event) {
